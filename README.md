@@ -1,1 +1,1 @@
-# Jobsearch_Scraping
+Scraping Jobsearch.az with Selenium+BS 
